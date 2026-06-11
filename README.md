@@ -10,18 +10,18 @@ The dashboard provides insights into team performance, player statistics, and ma
 * Identify trends across seasons and venues  
 
 ## 📊 Key Features
-## KPI metrics:
+## 1.KPI metrics:
   - Total Matches Played  
   - Total Revenue  
   - Chasing Win Percentage  
   - Top Performing Player  
 
-## Interactive slicers:
+## 2.Interactive slicers:
   - Season  
   - Winner  
   - Venue  
 
-## Visualizations:
+## 3.Visualizations:
   - Top 10 Players Performance  
   - Team-wise Wins Analysis  
   - Toss Impact on Victory  
