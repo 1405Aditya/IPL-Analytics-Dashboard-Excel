@@ -1,68 +1,55 @@
-# IPL-Analytics-Dashboard-Excel
+# 🏏 IPL Analytics Dashboard (Excel)
 
-# 🏏 IPL Analytics Dashboard (2008–2020)
+## 📌 Overview
+Developed an interactive Excel dashboard to analyze Indian Premier League (IPL) data from 2008 to 2020.  
+The dashboard provides insights into team performance, player statistics, and match outcomes using dynamic visuals and KPIs.
 
-An interactive Excel dashboard built to analyze Indian Premier League (IPL) data from 2008 to 2020.  
-The dashboard provides insights into team performance, player statistics, match trends, and toss impact.
+## 🎯 Objectives
+- Analyze team-wise and player-wise performance  
+- Understand the impact of toss decisions on match outcomes  
+- Identify trends across seasons and venues  
 
-
-## 📊 Dashboard Overview
-
-<img width="1827" height="723" alt="IPL_Analytics_Dashboard" src="https://github.com/user-attachments/assets/ebf3e32c-fac7-4329-a36e-a54d00a5d754" />
-
-
-## 🎯 Key Features
-
-- KPI cards showing:
-  - Total Matches Played
-  - Total Revenue
-  - Chasing Win Percentage
+## 📊 Key Features
+- KPI metrics:
+  - Total Matches Played  
+  - Total Revenue  
+  - Chasing Win Percentage  
   - Top Performing Player  
 
-- Interactive slicers for:
-  - Season
-  - Match Winner
+- Interactive slicers:
+  - Season  
+  - Winner  
   - Venue  
 
-- Visualizations include:
-  - Top 10 Players performance
-  - Team-wise wins analysis
-  - Toss impact on match outcomes
-  - Matches played per season
-  - Mode of wins (Batting First vs Chasing)
-  - Umpire frequency analysis  
+- Visualizations:
+  - Top 10 Players Performance  
+  - Team-wise Wins Analysis  
+  - Toss Impact on Victory  
+  - Matches Played Per Season  
+  - Mode of Wins (Chasing vs Batting First)  
+  - Most Frequent Umpires  
 
-## 🛠 Tools & Techniques Used
+## 📈 Key Insights
+- Teams chasing have a higher win percentage (~54%)  
+- Toss decisions significantly influence match results  
+- Certain players consistently outperform across seasons  
+- Team performance varies across venues and years
 
+## 🛠 Tools Used
 - Microsoft Excel  
 - Pivot Tables  
 - Pivot Charts  
 - Slicers & Filters  
-- Data Cleaning & Transformation  
-- Dashboard Design  
+- Data Cleaning  
 
-## 📈 Key Insights
-
-- Teams chasing have a higher probability of winning (~54%).  
-- Certain players consistently dominate across seasons.  
-- Toss decisions significantly influence match outcomes.  
-- Match frequency and performance vary across seasons and venues.  
-
-## 📂 Dataset
-
-The dataset includes IPL match data such as:
-- Seasons
-- Teams
-- Venues
-- Match results
-- Player performance  
-
+## 📂 Files Included
+- IPL_Analytics_Dashboard.xlsx – Contains both dataset and dashboard
+- IPL_Analytics_Dashboard.png – Dashboard preview  
+ 
 ## 🚀 How to Use
-
 1. Download the Excel file  
 2. Open in Microsoft Excel  
 3. Use slicers to interact with the dashboard  
 
-## ⭐ Project Objective
-
-To create a dynamic and interactive dashboard that helps analyze IPL trends and generate actionable insights using Excel.
+## 📌 Learnings
+Gained hands-on experience in building interactive Excel dashboards using pivot tables, slicers, and data visualization techniques to derive actionable insights.
