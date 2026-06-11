@@ -5,23 +5,23 @@ Developed an interactive Excel dashboard to analyze Indian Premier League (IPL) 
 The dashboard provides insights into team performance, player statistics, and match outcomes using dynamic visuals and KPIs.
 
 ## 🎯 Objectives
-- Analyze team-wise and player-wise performance  
-- Understand the impact of toss decisions on match outcomes  
-- Identify trends across seasons and venues  
+* Analyze team-wise and player-wise performance
+* Understand the impact of toss decisions on match outcomes  
+* Identify trends across seasons and venues  
 
 ## 📊 Key Features
-- KPI metrics:
+* KPI metrics:
   - Total Matches Played  
   - Total Revenue  
   - Chasing Win Percentage  
   - Top Performing Player  
 
-- Interactive slicers:
+* Interactive slicers:
   - Season  
   - Winner  
   - Venue  
 
-- Visualizations:
+* Visualizations:
   - Top 10 Players Performance  
   - Team-wise Wins Analysis  
   - Toss Impact on Victory  
@@ -30,21 +30,26 @@ The dashboard provides insights into team performance, player statistics, and ma
   - Most Frequent Umpires  
 
 ## 📈 Key Insights
-- Teams chasing have a higher win percentage (~54%)  
-- Toss decisions significantly influence match results  
-- Certain players consistently outperform across seasons  
-- Team performance varies across venues and years
+* Teams chasing have a higher win percentage (~54%)  
+* Toss decisions significantly influence match results  
+* Certain players consistently outperform across seasons  
+* Team performance varies across venues and years
 
 ## 🛠 Tools Used
-- Microsoft Excel  
-- Pivot Tables  
-- Pivot Charts  
-- Slicers & Filters  
-- Data Cleaning  
+* Microsoft Excel  
+* Pivot Tables  
+* Pivot Charts  
+* Slicers & Filters  
+* Data Cleaning
+
+## 📸 Dashboard Preview
+
+<img width="1631" height="625" alt="IPL_Analytics_Dashboard" src="https://github.com/user-attachments/assets/37ae33ab-82c0-4da8-a2a4-fe83610741bb" />
+
 
 ## 📂 Files Included
-- IPL_Analytics_Dashboard.xlsx – Contains both dataset and dashboard
-- IPL_Analytics_Dashboard.png – Dashboard preview  
+* IPL_Analytics_Dashboard.xlsx – Contains both dataset and dashboard
+* IPL_Analytics_Dashboard.png – Dashboard preview  
  
 ## 🚀 How to Use
 1. Download the Excel file  
